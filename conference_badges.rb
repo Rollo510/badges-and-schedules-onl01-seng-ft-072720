@@ -18,3 +18,5 @@ def assign_rooms(speakers)
   end
   return new_array
 end
+
+def 
