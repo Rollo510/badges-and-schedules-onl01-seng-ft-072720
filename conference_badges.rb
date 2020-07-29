@@ -14,9 +14,7 @@ end
 def assign_rooms(speakers)
   speakers.each do |speaker|
   num = 1
-  if num < 8
-    puts "Hello, #{speaker}! You'll be assigned to room #{num}!"
-  num += 1
+  
 end
 end
 end
