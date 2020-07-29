@@ -11,5 +11,9 @@ end
 end
 
 def assign_rooms(speakers)
-  
+  num = 1
+  if num < 8
+    puts "Hello, #{speaker}! You'll be assigned to room #{num}!"
+  num += 1
+end
 end
