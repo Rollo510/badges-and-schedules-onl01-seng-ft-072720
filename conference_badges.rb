@@ -10,3 +10,6 @@ end
   return new_array
 end
 
+def assign_rooms(speakers)
+  
+end
