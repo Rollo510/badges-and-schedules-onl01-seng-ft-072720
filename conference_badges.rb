@@ -12,9 +12,9 @@ end
 
 
 def assign_rooms(speakers)
+  new_array = []
   speakers.each do |speaker|
-  num = 1
   
-end
-end
+  end
+  return new_array
 end
