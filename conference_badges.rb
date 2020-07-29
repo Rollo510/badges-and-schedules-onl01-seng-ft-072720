@@ -13,7 +13,7 @@ end
 
 def assign_rooms(speakers)
   new_array = []
-  speakers.each do |speaker|
+  speakers.each_with_index do |speaker, index|
   
   end
   return new_array
